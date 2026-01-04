@@ -11,10 +11,10 @@ function Navigation({onContentChange}){
                 Home
             </button>
             <button onClick={(e) => handleContentChange(e, 'happyDawg')}>
-                Happy Dawg
+                Happy Dog
             </button>
             <button onClick={(e) => handleContentChange(e, 'coolDawg')}>
-                Cool Dawg
+                Cool Dog
             </button>
         </nav>
     )

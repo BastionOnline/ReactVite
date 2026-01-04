@@ -1,7 +1,7 @@
 function Header() {
     return (
         <header>
-            <h1>This is mah dawg</h1>
+            <h1>This is my dog</h1>
         </header>
     )
 }
